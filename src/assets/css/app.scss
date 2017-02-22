@@ -1,0 +1,33 @@
+.body {
+	background-color: #fdfff4;
+}
+
+img {
+	width: 100%;
+}
+
+.container {
+	max-width: 750px;
+	margin: 0 auto;
+}
+
+.headline {
+	font-family: Helvetica;
+	font-size:100px;
+	line-height: 95px;
+}
+
+.body {
+	font-family: Helvetica;
+	font-size:22px;
+	line-height:30px;
+}
+
+.body:first-letter {
+	font-size: 60px;
+}
+
+.youtube{
+	display: block;
+	margin: 0 auto;
+}
