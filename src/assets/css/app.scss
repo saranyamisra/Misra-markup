@@ -7,27 +7,30 @@ img {
 }
 
 .container {
-	max-width: 750px;
+	max-width: 800px;
 	margin: 0 auto;
 }
 
 .headline {
-	font-family: Helvetica;
-	font-size:100px;
-	line-height: 95px;
+	font-family: Abril Fatface;
+	font-size:60px;
+	line-height: 65px;
 }
 
 .body {
-	font-family: Helvetica;
+	font-family: Open Sans Condensed;
 	font-size:22px;
 	line-height:30px;
-}
-
-.body:first-letter {
-	font-size: 60px;
 }
 
 .youtube{
 	display: block;
 	margin: 0 auto;
+}
+
+.home{
+background-image: url("http://cdn.wallpapersafari.com/27/16/pFkXea.jpg");
+max-width: 100%;
+height: auto;
+width: auto\9; /* ie8 */
 }
